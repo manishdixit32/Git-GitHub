@@ -1,1 +1,3 @@
-This is My second Stage of Git-GitHub
+This is My second Stage of Git-GitHub.
+
+Training Going On..
